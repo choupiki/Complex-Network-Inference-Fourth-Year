@@ -1,0 +1,6 @@
+call win_exec_sf.py file with args
+->>> get folder of hdf5 files with raw data for each state point
+call SF_analysis_parallel.py with args
+->>> get two .csv files, 1st with mag, r_err and sus for each state point; 2nd with range of state point vars (i.e. T, gamma)
+call fwd_quant_imshow.py with args
+->>> get plot of analysis vars wrt state point vars and sorted data frame by ascending T then gamma

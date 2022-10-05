@@ -1,0 +1,5 @@
+conda deactivate
+source /mnt/storage/home/oh17935/.virtualenvs/inference/bin/activate
+cd scratch
+sbatch ~/bin/subSF.sh
+
