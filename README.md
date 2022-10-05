@@ -1,3 +1,3 @@
-# fmri2
-Cleaner version of my fmri Ising inference analysis code
-Trying to implement setup.py file as well as better structure & git igonre to better adhere to best practices.
+Adaptation of Max Kloucek's fmri2 repository to study scale free, complete and regular graphs within embedded Ising models. 
+
+Many of original files are Max's but many adaptations have been made to handle new network types and new functionalities.
